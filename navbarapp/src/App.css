@@ -24,9 +24,7 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+
 
 @keyframes App-logo-spin {
   from {
@@ -38,9 +36,8 @@
 }
 
 a.nav-link{
-  color:black
+  color:black;
 }
-
 button.btn-danger{
   background-color: rgb(150, 127, 255);
   border: transparent;
