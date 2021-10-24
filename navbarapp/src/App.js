@@ -14,8 +14,6 @@ function App() {
         <Nav.Link href="#home">Home</Nav.Link>
         <Nav.Link href="#link">Link</Nav.Link>
         <Nav.Link href="#link">Link</Nav.Link>
-        
-       
       </Nav>
       <Nav.Link>  <Button variant="outline-danger">Danger</Button></Nav.Link>
       <Nav.Link>Sigin

@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a.nav-link{
+  color:black
+}
+.btn-outline-danger{
+  background-color:rgb(190, 22, 115) ;
+  border-radius: 30px;
+  border: transparent;
+
+}
