@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+a.nav-link{
+  color:black
+}
+
+button.btn-danger{
+  background-color: rgb(150, 127, 255);
+  border: transparent;
+  border-radius: 20px;
+  width: 120px;
+}
