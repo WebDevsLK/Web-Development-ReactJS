@@ -12,13 +12,15 @@ function App() {
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
         <Nav.Link href="#home">Home</Nav.Link>
-        <Nav.Link href="#link">Link</Nav.Link>
+        <Nav.Link href="#link">shop</Nav.Link>
         <Nav.Link href="#link">Link</Nav.Link>
       </Nav>
+
       <Nav.Link>  <Button variant="danger">Danger</Button></Nav.Link>
       <Nav.Link>Sigin</Nav.Link>
 
     </Navbar.Collapse>
+
   </Container>
 </Navbar>
     </div>
